@@ -6,3 +6,6 @@ model = svm_train(y,x)
 
 p_label, p_acc, p_val = svm_predict(yt[0:117], xt[0:117], model)
 print(p_label, p_acc, p_val)
+
+
+devdevdev
